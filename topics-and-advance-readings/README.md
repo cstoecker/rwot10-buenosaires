@@ -60,6 +60,11 @@ really, read as much as you can!)
   * by [Markus Sabadello](https://danubetech.com/)
   * "Matrix parameters are a syntax component of DID URLs that make it possible to include parameters for the DID resolution process in a DID URL. This topic paper discussed why the community introduced matrix parameters in DID URL syntax, and how their use is different from the more familiar query parameters."
   * #did #url #matrixparameters
+  
+ [Quantum Secure DIDs](QuantumSecureDIDs.md)
+   * by [Carsten Stöcker](https://spherity.com)
+   * "To address the risk of the advent of quantum computers for decentralized identity solutions, we propose to introduce a simple method using one-time signing keys and key rotation to protect our digital identity while using existing cryptographic ciphers for signing and hashing. Sam Smith's KERI is a potential candidate for implementing our proposed method. This approach shall allow us already today to prepare for the age of quantum attacks on our identity infrastructure."
+   * #DID #QuantumComputing #Bitcoin_P2PKH #KeyRotation #DAD #KERI
 
 ### Ecosystem Development
 
@@ -110,6 +115,7 @@ really, read as much as you can!)
 * [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
+* [Quantum Secure DIDs](QuantumSecureDIDs.md)
 * [Mapping adequacies:](mapping-adequacies.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
